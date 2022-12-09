@@ -1,0 +1,27 @@
+.cartable-parent {
+    height: 89vh;
+}
+
+.textarea-box {
+    background-color: #fff;
+    border-radius: .5rem;
+}
+
+.message-number {
+    color: #90CAF9;
+    border-radius: 50%;
+    background-color: rgb(249, 243, 243);
+    font-size: bold;
+}
+
+.textarea-message {
+    border: 1px solid rgb(148, 147, 147);
+    outline: none;
+    border-radius: .5rem;
+
+}
+
+.massage-text {
+    color: #90CAF9;
+
+}

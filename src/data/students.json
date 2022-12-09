@@ -1,0 +1,55 @@
+{
+    "students":[
+        {
+            "id":1,
+            "fullName":"مرضیه قهرمانی",
+            "studentCode":"12345678",
+            "nationalCode":"12345566",
+            "dgree":"مهندسی مواد",
+            "term":"لیسانس",
+            "number":"100"
+        },{
+            "id":2,
+            "fullName":"مرضیه قهرمانی",
+            "studentCode":"12345678",
+            "nationalCode":"12345566",
+            "dgree":"مهندسی مکانیک",
+            "term":"لیسانس",
+            "number":"200"
+        },{
+            "id":31,
+            "fullName":"مرضیه قهرمانی",
+            "studentCode":"12345678",
+            "nationalCode":"12345566",
+            "dgree":"مهندسی مکانیک",
+            "term":"دیپلم",
+            "number":"300"
+        },{
+            "id":41,
+            "fullName":"مرضیه قهرمانی",
+            "studentCode":"12345678",
+            "nationalCode":"12345566",
+            "dgree":"مهندسی مواد",
+            "term":"دیپلم",
+            "number":"400"
+        },
+        {
+            "id":51,
+            "fullName":"مرضیه قهرمانی",
+            "studentCode":"12345678",
+            "nationalCode":"12345566",
+            "dgree":"مهندسی مواد",
+            "term":"دکترا",
+            "number":"100"
+        },
+        {
+            "id":61,
+            "fullName":"حسین ناصری",
+            "studentCode":"999999999",
+            "nationalCode":"8946123255",
+            "dgree":"مهندسی شیمی",
+            "term":"دکترا",
+            "number":"150"
+        }
+    ]
+}

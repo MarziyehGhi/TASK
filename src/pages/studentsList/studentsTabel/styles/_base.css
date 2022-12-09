@@ -1,0 +1,18 @@
+.tabel-thead {
+    background-color: #fff;
+}
+
+.avatar {
+    width: 2.85rem;
+    height: 2.85rem;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.tabel-Row td {
+    line-height: 45px;
+}
+
+.last-td-Row {
+    color: gold;
+}
